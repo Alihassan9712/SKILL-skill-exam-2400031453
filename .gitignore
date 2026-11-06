@@ -1,9 +1,0 @@
-.metadata/
-**/target/
-**/.classpath
-**/.project
-**/.settings/
-.vscode/
-*.log
-.env
-DepartmentProject/src/main/resources/application.properties
